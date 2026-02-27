@@ -4,3 +4,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 snapshot
 
 fffffffffff
+new line
